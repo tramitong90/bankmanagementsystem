@@ -1,0 +1,15 @@
+===============Bank===============
+1|Group 2|612 234 3456|group2bank
+===============Employee[s]===============
+===============Bank===============
+1|Group 2|612 234 3456|group2bank
+===============Employee[s]===============
+1|Mi|Tong|mi@abc.com|1232343456|FullTime
+healthcare|2343432
+2|Tanny|Nguyen|tanny@gmail.com|3454564567|PartTime
+100.0|W2|40.0
+===============Bank===============
+1|Group 2|612 234 3456|group2bank
+===============Employee[s]===============
+1|mi|tong|mi@abc.com|324234324|FullTime
+healthcare|2343
