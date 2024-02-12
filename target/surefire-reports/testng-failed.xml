@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="test.com.itexps.MyBankTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="testAddPartTimeEmployeeDetails"/>
+          <include name="tearDownMethod"/>
+          <include name="testSaveEmployee"/>
+          <include name="tearDownClass"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- test.com.itexps.MyBankTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

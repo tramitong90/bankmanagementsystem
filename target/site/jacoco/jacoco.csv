@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,Bank,0,83,0,0,0,27,0,14,0,14
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,FullTimeEmployee,0,41,0,0,0,11,0,6,0,6
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,PartTimeEmployee,0,47,0,0,0,15,0,8,0,8
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,CheckingAccount,0,58,0,0,0,18,0,10,0,10
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,IndividualCustomer,0,22,0,0,0,7,0,4,0,4
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,BusinessCustomer,0,22,0,0,0,7,0,4,0,4
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,SavingAccount,0,58,0,0,0,18,0,10,0,10
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,MyBank,395,591,38,30,101,182,25,29,1,14
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,Customer,0,80,0,0,0,27,0,14,0,14
+bankmanagementsystem,com.itexps.training.bankmanagementsystem,Employee,0,84,0,0,0,30,0,16,0,16
